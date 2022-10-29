@@ -2,7 +2,8 @@
 
 Homework Final Project stage 0
 
-Kelompok Pandas 08:\n
+Kelompok Pandas 08:
+
 Abdussalam Darmaatmaja
 Trully Ananda
 Nathanael
